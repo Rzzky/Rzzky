@@ -1,4 +1,4 @@
-![Chizuru](https://r2.guns.lol/648d3510-9c99-4667-9a7f-06af645dfad3.mp4)
+![HanSoHee](https://r2.guns.lol/648d3510-9c99-4667-9a7f-06af645dfad3.mp4)
 ## Hey 👋, I'm Rizky Oryza
 ![OS Badge](https://img.shields.io/badge/OS-linux-blue?&logo=Linux)
 [![Github Badge](https://img.shields.io/badge/-rzzky-grey?style=flat&logo=github&logoColor=white&link=https://github.com/rzzky/)](https://www.github.com/rzzky/)
@@ -12,5 +12,14 @@
 ## My Github Stats
 <p align=left> <img src=https://komarev.com/ghpvc/?username=rzzky alt=rzzky /> </p>
 
-[![Github stats](https://github-readme-stats.vercel.app/api?username=rzzky&show_icons=true&include_all_commits=true&hide_border=true&bg_color=282A36&icon_color=686868&title_color=57c7ff&text_color=9aedfe&custom_title=My+Github+Stats)](https://github.com/rzzky/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rzzky&layout=compact&hide_border=true&bg_color=282A36&icon_color=686868&title_color=57c7ff&text_color=9aedfe)](https://github.com/rzzky/github-readme-stats)
+[![Github stats]
+
+<img src="https://github-readme-stats.vercel.app/api?username=rzzky&show_icons=true&include_all_commits=true&hide_border=true&bg_color=282A36&icon_color=686868&title_color=57c7ff&text_color=9aedfe&custom_title=My+Github+Stats" alt="GitHub Stats" height="170" />
+
+](https://github.com/rzzky/github-readme-stats)
+
+[![Top Langs]
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rzzky&layout=compact&hide_border=true&bg_color=282A36&icon_color=686868&title_color=57c7ff&text_color=9aedfe" alt="GitHub Stats" height="170" />
+
+](https://github.com/rzzky/github-readme-stats)
