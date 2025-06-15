@@ -1,4 +1,4 @@
-<img src="https://64.media.tumblr.com/c06b42732d48cc58a2ab8b84cc2f5483/376e89fb95e86e07-a0/s400x600/be52aaf4657225c8f5725df5a5f87853da0c6371.gif" width="600"/>
+<img src="https://64.media.tumblr.com/c06b42732d48cc58a2ab8b84cc2f5483/376e89fb95e86e07-a0/s400x600/be52aaf4657225c8f5725df5a5f87853da0c6371.gif" width="350"/>
 
 ## Hey 👋, I'm Rizky Oryza
 ![OS Badge](https://img.shields.io/badge/OS-linux-blue?&logo=Linux)
