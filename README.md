@@ -1,7 +1,7 @@
-<img src="https://64.media.tumblr.com/c06b42732d48cc58a2ab8b84cc2f5483/376e89fb95e86e07-a0/s400x600/be52aaf4657225c8f5725df5a5f87853da0c6371.gif" width="350"/>
+![Chizuru](https://c.tenor.com/OJ7dWLRs3JAAAAAC/mizuhara-chizuru.gif)
 ## Hey 👋, I'm Rizky Oryza
 ![OS Badge](https://img.shields.io/badge/OS-linux-blue?&logo=Linux)
-[![Github Badge](https://img.shields.io/badge/-rzzky-grey?style=flat&logo=github&logoColor=white&link=https://github.com/rzzky/)](https://www.github.com/rzzky/)
+![Github Badge](https://img.shields.io/badge/-rzzky-grey?style=flat&logo=github&logoColor=white&link=https://github.com/rzzky/)](https://www.github.com/rzzky/)
 <p align='left'>I'm a script kiddie and penetration tester and I'm interested in a world of programming and here are some of the programming languages ​​I use</p>
 
 ![PHP](https://img.shields.io/badge/-PHP-282A36?style=flat&logo=PHP)&nbsp;
