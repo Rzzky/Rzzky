@@ -12,14 +12,7 @@
 ## My Github Stats
 <p align=left> <img src=https://komarev.com/ghpvc/?username=rzzky alt=rzzky /> </p>
 
-[![Github stats]
-
-<img src="https://github-readme-stats.vercel.app/api?username=rzzky&show_icons=true&include_all_commits=true&hide_border=true&bg_color=282A36&icon_color=686868&title_color=57c7ff&text_color=9aedfe&custom_title=My+Github+Stats" alt="GitHub Stats" height="170" />
-
-](https://github.com/rzzky/github-readme-stats)
-
-[![Top Langs]
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rzzky&layout=compact&hide_border=true&bg_color=282A36&icon_color=686868&title_color=57c7ff&text_color=9aedfe" alt="GitHub Stats" height="170" />
-
-](https://github.com/rzzky/github-readme-stats)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rzzky&show_icons=true&include_all_commits=true&hide_border=true&bg_color=282A36&icon_color=686868&title_color=57c7ff&text_color=9aedfe&custom_title=My+Github+Stats" alt="GitHub Stats" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rzzky&layout=compact&hide_border=true&bg_color=282A36&icon_color=686868&title_color=57c7ff&text_color=9aedfe" alt="GitHub Stats" height="170" />
+</div>
