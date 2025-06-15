@@ -1,4 +1,4 @@
-![HanSoHee](https://r2.guns.lol/648d3510-9c99-4667-9a7f-06af645dfad3.mp4)
+![HanSoHee](https://64.media.tumblr.com/c06b42732d48cc58a2ab8b84cc2f5483/376e89fb95e86e07-a0/s400x600/be52aaf4657225c8f5725df5a5f87853da0c6371.gif)
 ## Hey 👋, I'm Rizky Oryza
 ![OS Badge](https://img.shields.io/badge/OS-linux-blue?&logo=Linux)
 [![Github Badge](https://img.shields.io/badge/-rzzky-grey?style=flat&logo=github&logoColor=white&link=https://github.com/rzzky/)](https://www.github.com/rzzky/)
