@@ -14,6 +14,6 @@
 <p align=left> <img src=https://komarev.com/ghpvc/?username=rzzky alt=rzzky /> </p>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=rzzky&theme=gruvbox&hide_border=true" alt="GitHub Stats" height="170" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rzzky&theme=gruvbox&hide_border=true" alt="GitHub Stats" height="170" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rzzky&layout=compact&hide_border=true&show_icons=true&theme=gruvbox" alt="GitHub Stats" height="170" />
 </div>
